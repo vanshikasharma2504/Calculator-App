@@ -13,4 +13,4 @@ python calculator.py
 ```
 
 ## Author
-Your Name
+Vanshika
