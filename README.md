@@ -1,10 +1,16 @@
 # Calculator App
 
-A simple Python calculator project.
+A simple calculator written in Python.
 
 ## Features
-- Addition
-- Subtraction
+- Add two numbers
+- Subtract two numbers
 
-## Language
-- Python
+## How to Run
+
+```bash
+python calculator.py
+```
+
+## Author
+Your Name
